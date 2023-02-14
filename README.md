@@ -1,4 +1,4 @@
-# flask_freecodecamp
+# flask_Corey_Schafer
 
 This the project I have build to get the hand-on during learning flask. It's course from the YouTube channel of Corey Schafer.
 
