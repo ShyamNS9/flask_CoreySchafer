@@ -1,6 +1,6 @@
 # flask_Corey_Schafer
 
-This the project I have build to get the hand-on during learning flask. It's course from the YouTube channel of Corey Schafer.
+This is the project I have build to get the hand-on when I was learning flask. It's course from the YouTube channel of Corey Schafer.
 
 Link: https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH
 
